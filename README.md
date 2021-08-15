@@ -2,7 +2,7 @@
 
 The famous Mongoose-Express-React-Node stack. It is just a simple web-page that works with the CRUD of product objects. 
 
-The application was created after watch [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) course with MERN which gives me an awesome explanation on how to do build an full-stack project.
+The application was created after watch [The Full Stack Junkie](https://www.youtube.com/channel/UCQrQo7jTpOh8V9EDn9Tgnxg) course with MERN which gives me an awesome explanation on how to do build an full-stack project.
 
 # Start-up
 
